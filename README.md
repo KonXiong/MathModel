@@ -3,6 +3,7 @@
 #### 以上文件转载自宁波大学 周吕文老师
 ---
 #### 经过多次打数学建模，认识到画图的重要性
+可以参考下MathModelFigureExamples.pptx
 #### 建议调用python的库，如seaborn
 http://seaborn.pydata.org/
 
